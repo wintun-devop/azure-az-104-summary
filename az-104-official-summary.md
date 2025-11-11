@@ -3,7 +3,13 @@
 https://learn.microsoft.com/en-us/training/paths/prepare-teach-az-104-microsoft-azure-administrator/
 ```
 
+### 
+```
+https://learn.microsoft.com/en-us/training/modules/understand-azure-active-directory/
+```
+
 ### Azure Virtual Network(Vnet)
 ```
 https://learn.microsoft.com/en-us/azure/well-architected/service-guides/virtual-network
 ```
+
